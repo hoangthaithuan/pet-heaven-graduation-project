@@ -76,7 +76,7 @@ Development was collaborative, and feature ownership was shared across the team.
 
 ### Homepage
 
-![Pet Heaven Homepage](screenshots/homepage.png)
+![Pet Heaven Homepage](screenshots/hompage.png)
 
 The customer-facing homepage introduces pet products, promotions, and service navigation.
 
@@ -104,7 +104,7 @@ Login and registration interfaces developed for the customer-facing application.
 
 ### Admin Dashboard
 
-![Pet Heaven Admin Dashboard](screenshots/admin.png)
+![Pet Heaven Admin Dashboard](screenshots/adminpage.png)
 
 The administration dashboard provides an overview of system data and access to management modules.
 
